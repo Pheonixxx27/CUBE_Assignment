@@ -19,6 +19,6 @@ To run this website locally, you need to have Node.js and npm installed on your 
 
 ### Contributors
 
-This project was created by Vishant Singh as an assignment for ReactJs internship application. You can contact him at .
+This project was created by Vishant Singh as an assignment for CUBE Fulltime Hiring. You can contact him at vishantt.singh@gmail.com.
 
 
