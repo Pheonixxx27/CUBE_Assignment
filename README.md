@@ -1,6 +1,6 @@
-# ReactJs Internship Assignment
+# CUBE Fulltime Assignment
 
-This is the assignment for Reactjs Internship Application.
+This is the assignment for Fulltime Hiring for Cubehq.ai.
 
 ### Installation and Usage
 
