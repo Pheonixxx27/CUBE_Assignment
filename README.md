@@ -21,4 +21,4 @@ To run this website locally, you need to have Node.js and npm installed on your 
 
 This project was created by Vishant Singh as an assignment for CUBE Fulltime Hiring. You can contact him at vishantt.singh@gmail.com.
 
-
+![Screenshot 2024-04-17 105854](https://github.com/Pheonixxx27/CUBE_Assignment/assets/121881139/7d73ab41-de62-4469-9f6a-7b81b48e7f8e)
